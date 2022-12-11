@@ -1,5 +1,9 @@
 package com.kochkina.homework2_15;
 
+import com.kochkina.homework2_15.exception.InvalidIndexException;
+import com.kochkina.homework2_15.exception.NullItemException;
+import com.kochkina.homework2_15.exception.StorageIsFullException;
+
 import java.util.Arrays;
 
 public class IntegerListImpl implements IntegerList {
