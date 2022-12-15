@@ -1,4 +1,4 @@
-package com.kochkina.homework2_15;
+package com.kochkina.exception;
 
 public class InvalidIndexException extends RuntimeException {
     public InvalidIndexException() {

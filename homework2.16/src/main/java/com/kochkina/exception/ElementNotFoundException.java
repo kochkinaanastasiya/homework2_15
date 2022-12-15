@@ -1,4 +1,4 @@
-package com.kochkina.homework2_15;
+package com.kochkina.exception;
 
 public class ElementNotFoundException extends RuntimeException {
     public ElementNotFoundException() {

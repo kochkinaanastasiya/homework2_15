@@ -1,4 +1,4 @@
-package com.kochkina.homework2_15;
+package com.kochkina.homework2_15.exception;
 
 public class StorageIsFullException extends RuntimeException {
     public StorageIsFullException() {
